@@ -1,0 +1,5 @@
+C:\Users\TUNAHAN\source\repos\AraSınavÖdevi\AraSınavÖdevi\bin\Debug\netcoreapp3.1\AraSınavÖdevi.exe
+C:\Users\TUNAHAN\source\repos\AraSınavÖdevi\AraSınavÖdevi\obj\Debug\netcoreapp3.1\AraSınavÖdevi.csprojAssemblyReference.cache
+C:\Users\TUNAHAN\source\repos\AraSınavÖdevi\AraSınavÖdevi\obj\Debug\netcoreapp3.1\AraSınavÖdevi.AssemblyInfoInputs.cache
+C:\Users\TUNAHAN\source\repos\AraSınavÖdevi\AraSınavÖdevi\obj\Debug\netcoreapp3.1\AraSınavÖdevi.AssemblyInfo.cs
+C:\Users\TUNAHAN\source\repos\AraSınavÖdevi\AraSınavÖdevi\obj\Debug\netcoreapp3.1\AraSınavÖdevi.csproj.CoreCompileInputs.cache

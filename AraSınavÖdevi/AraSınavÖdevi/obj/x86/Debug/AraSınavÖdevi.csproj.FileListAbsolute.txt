@@ -1,0 +1,13 @@
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\bin\Debug\AraSınavÖdevi.exe
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\bin\Debug\AraSınavÖdevi.pdb
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.Properties.Resources.resources
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.csproj.GenerateResource.Cache
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.exe
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.pdb
+c:\users\tunahan\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.anaMenü.resources
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.güncelle.resources
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.kayıtlarıListele.resources
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.Form1.resources
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.tarihlerArasıSorgu.resources
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\AraSınavÖdevi\AraSınavÖdevi\obj\x86\Debug\AraSınavÖdevi.login.resources

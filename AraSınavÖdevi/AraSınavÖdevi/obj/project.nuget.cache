@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHvz0geUGe9hMM68KlndHRJpvoR8UsFlxRq6zO4zcnVd7ul/JjzLqHyh0lBtdgWbLaNcN3zSI2BfV2D3oKdDiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TUNAHAN\\source\\repos\\AraSınavÖdevi\\AraSınavÖdevi\\AraSınavÖdevi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TUNAHAN\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Microsoft.Office.Interop.Excel 15.0.4795.1000' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
